@@ -1,0 +1,31 @@
+{
+  // *******************************************************
+  // styles
+  // *******************************************************
+  // themes
+  "workbench.colorTheme": "Monokai",
+  // fonts
+  "editor.fontSize": 14,
+  "editor.fontFamily": "'DejaVu Sans Mono', 'PowerlineSymbols', 'monospace'",
+  "terminal.integrated.fontFamily": "'DejaVu Sans Mono', 'PowerlineSymbols', 'monospace'",
+  // *******************************************************
+  // editor
+  // *******************************************************
+  // autosave
+  "files.autoSave": "off",
+  // multi cursor
+  "editor.multiCursorModifier": "ctrlCmd",
+  // spaces
+  "editor.tabSize": 2,
+  // ruler
+  "editor.rulers": [
+    80
+  ],
+  // word wrap
+  "editor.wordWrap": "on",
+  // *******************************************************
+  // misc
+  // *******************************************************
+  // share data
+  "telemetry.enableTelemetry": false
+}
