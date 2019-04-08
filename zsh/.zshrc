@@ -85,9 +85,10 @@ alias glg="git log"
 alias gl='git log --pretty=format:"%C(auto)%h %C(blue)%ad%x09%C(green)%an%x09%C(reset)%s%C(auto)%d" --graph --date=short'
 alias ga="git add"
 alias gaa="git add --all"
-alias gc="git commit"
-alias gcm="git commit -m"
-alias gcam="git commit -a -m"
+alias gc="git cz" # use commitizen
+# alias gc="git commit"
+# alias gcm="git commit -m"
+# alias gcam="git commit -a -m"
 alias gco="git checkout"
 alias gcob="git checkout -b"
 alias gcom="git checkout master"
